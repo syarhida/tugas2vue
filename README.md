@@ -1,29 +1,16 @@
-# tugas2vue
+# Vue.js - Halaman Web Sederhana
 
-This template should help get you started developing with Vue 3 in Vite.
+Repositori ini berisi proyek biodata sederhana yang dibuat untuk Tugas 2 mata kuliah Pemrograman Berbasis Web. Proyek ini menampilkan data berupa tulisan "Selamat malam tutor, ini adalah tugas kedua Syarif Hidayat" dengan warna tulisan orange dan latar belakang hitam.
 
-## Recommended IDE Setup
+Deskripsi Proyek
+Tujuan proyek ini adalah membuat halaman web sederhana yang menampilkan data berupa teks salam kepada Tutor. Proyek ini merupakan latihan praktis untuk menerapkan konsep dasar pemrograman web, termasuk struktur HTML dan gaya CSS menggunakan framework Vue.js.
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+## Teknologi yang Digunakan
 
-## Customize configuration
+- HTML: Untuk struktur halaman biodata.
+- CSS: Untuk gaya tampilan dan tata letak.
+- Vue.js: Framework yang digunakan
 
-See [Vite Configuration Reference](https://vite.dev/config/).
+## Lisensi
 
-## Project Setup
-
-```sh
-npm install
-```
-
-### Compile and Hot-Reload for Development
-
-```sh
-npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
+Proyek ini dibuat untuk tujuan pendidikan dan tidak memiliki lisensi khusus.
